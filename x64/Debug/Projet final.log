@@ -1,0 +1,111 @@
+﻿  assetManager.cpp
+  bird.cpp
+  collision.cpp
+  flash.cpp
+C:\Users\justi\OneDrive\Bureau\School\Session 3\Structure de données dans les jeux vidéos\Projet\Projet final\flash.cpp(24,40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\justi\OneDrive\Bureau\School\Session 3\Structure de données dans les jeux vidéos\Projet\Projet final\flash.cpp(26,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\justi\OneDrive\Bureau\School\Session 3\Structure de données dans les jeux vidéos\Projet\Projet final\flash.cpp(31,40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\justi\OneDrive\Bureau\School\Session 3\Structure de données dans les jeux vidéos\Projet\Projet final\flash.cpp(33,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  game.cpp
+C:\Users\justi\OneDrive\Bureau\School\Session 3\Structure de données dans les jeux vidéos\Projet\Projet final\game.cpp(11,39): error C2061: syntax error: identifier 'mainMenuState'
+C:\Users\justi\OneDrive\Bureau\School\Session 3\Structure de données dans les jeux vidéos\Projet\Projet final\game.cpp(11,66): error C2143: syntax error: missing ';' before ')'
+C:\Users\justi\OneDrive\Bureau\School\Session 3\Structure de données dans les jeux vidéos\Projet\Projet final\game.cpp(11,66): error C2059: syntax error: ')'
+C:\Users\justi\OneDrive\Bureau\School\Session 3\Structure de données dans les jeux vidéos\Projet\Projet final\game.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  gameOverState.cpp
+C:\Users\justi\OneDrive\Bureau\School\Session 3\Structure de données dans les jeux vidéos\Projet\Projet final\gameOverState.cpp(16,22): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\justi\OneDrive\Bureau\School\Session 3\Structure de données dans les jeux vidéos\Projet\Projet final\gameOverState.cpp(17,22): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\justi\OneDrive\Bureau\School\Session 3\Structure de données dans les jeux vidéos\Projet\Projet final\gameOverState.cpp(33,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\justi\OneDrive\Bureau\School\Session 3\Structure de données dans les jeux vidéos\Projet\Projet final\gameOverState.cpp(38,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\justi\OneDrive\Bureau\School\Session 3\Structure de données dans les jeux vidéos\Projet\Projet final\gameOverState.cpp(46,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\justi\OneDrive\Bureau\School\Session 3\Structure de données dans les jeux vidéos\Projet\Projet final\gameOverState.cpp(46,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\justi\OneDrive\Bureau\School\Session 3\Structure de données dans les jeux vidéos\Projet\Projet final\gameOverState.cpp(88,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\justi\OneDrive\Bureau\School\Session 3\Structure de données dans les jeux vidéos\Projet\Projet final\gameOverState.cpp(88,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  gameState.cpp
+  hud.cpp
+C:\Users\justi\OneDrive\Bureau\School\Session 3\Structure de données dans les jeux vidéos\Projet\Projet final\hud.cpp(17,82): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\justi\OneDrive\Bureau\School\Session 3\Structure de données dans les jeux vidéos\Projet\Projet final\hud.cpp(17,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  inputManager.cpp
+C:\Users\justi\OneDrive\Bureau\School\Session 3\Structure de données dans les jeux vidéos\Projet\Projet final\inputManager.cpp(15,60): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\justi\OneDrive\Bureau\School\Session 3\Structure de données dans les jeux vidéos\Projet\Projet final\inputManager.cpp(15,28): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\justi\OneDrive\Bureau\School\Session 3\Structure de données dans les jeux vidéos\Projet\Projet final\inputManager.cpp(14,64): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\justi\OneDrive\Bureau\School\Session 3\Structure de données dans les jeux vidéos\Projet\Projet final\inputManager.cpp(14,40): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  land.cpp
+C:\Users\justi\OneDrive\Bureau\School\Session 3\Structure de données dans les jeux vidéos\Projet\Projet final\land.cpp(44,45): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  main.cpp
+  mainMenuState.cpp
+  pipe.cpp
+C:\Users\justi\OneDrive\Bureau\School\Session 3\Structure de données dans les jeux vidéos\Projet\Projet final\pipe.cpp(34,44): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\justi\OneDrive\Bureau\School\Session 3\Structure de données dans les jeux vidéos\Projet\Projet final\pipe.cpp(44,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\justi\OneDrive\Bureau\School\Session 3\Structure de données dans les jeux vidéos\Projet\Projet final\pipe.cpp(44,44): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\justi\OneDrive\Bureau\School\Session 3\Structure de données dans les jeux vidéos\Projet\Projet final\pipe.cpp(54,44): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  splashState.cpp
+  stateMachine.cpp
+  Generating Code...
